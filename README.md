@@ -9,6 +9,7 @@ I'm Valeria Shafran a 3rd-year Computer Science student
     <img src="https://cdn-icons-png.flaticon.com/256/174/174857.png" width="45" height="45">
 </a>
 
+
 **Languages and Tools:**
 
 <a><img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/c_original_logo_icon_146611.png" width="45" height="45" title="C">
