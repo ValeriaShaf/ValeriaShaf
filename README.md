@@ -1,5 +1,8 @@
 ## Hi there 👋
-
+I'm Valeria Shafran a 3rd-year Computer Science student 
+- 🔭 I’m currently working on an android app
+- 🌱 I’m currently learning Kotlin
+- 📫 How to reach me: Valeshafran@gmail.com  
 <!--
 **ValeriaShaf/ValeriaShaf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
