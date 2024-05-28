@@ -42,6 +42,7 @@ I'm Valeria Shafran a 3rd-year Computer Science student
 </a>
 
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ValeriaShaf)](https://github.com/ValeriaShaf/github-readme-stats)
 
 
 <!--
