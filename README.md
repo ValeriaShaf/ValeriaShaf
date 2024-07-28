@@ -12,6 +12,7 @@ Take a look at my current work!
 
 You can find more details in the [project's README](https://github.com/ValeriaShaf/Kotlin-Project-Travel-Journal#readme).
 <br>
+<br>
 **Reach me:**
 
 <a href="https://www.linkedin.com/in/valeriashafran/">
