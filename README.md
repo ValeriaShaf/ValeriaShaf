@@ -7,15 +7,15 @@ I'm Valeria Shafran a 3rd-year Computer Science student
 <br>
 
 **Take a look at my current work!**
----
-### [Travel Journal App](https://github.com/username/kotlin-final-project)
+
+### [Travel Journal App](https://github.com/ValeriaShaf/Kotlin-Project-Travel-Journal)
 
 <img src="https://github.com/ValeriaShaf/Kotlin-Project-Travel-Journal/raw/main/screen-recorder.gif" width="200" alt="Demo">
 
-You can find more details in the [project's README](https://github.com/ValeriaShaf/Kotlin-Project-Travel-Journal#readme).
+**You can find more details in the [project's README](https://github.com/ValeriaShaf/Kotlin-Project-Travel-Journal#readme).**
 <br>
 <br>
----
+
 **Reach me:**
 
 <a href="https://www.linkedin.com/in/valeriashafran/">
