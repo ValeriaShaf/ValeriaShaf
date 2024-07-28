@@ -3,6 +3,12 @@ I'm Valeria Shafran a 3rd-year Computer Science student
 - 🔭 I’m currently working on an android app
 - 🌱 I’m currently learning Kotlin
 
+
+### [My Kotlin Final Project](https://github.com/username/kotlin-final-project)
+
+![Screen Recorder](https://github.com/username/kotlin-final-project/raw/main/path/to/screen-recorder.gif)
+You can find more details in the [project's README](https://github.com/username/kotlin-final-project#readme).
+
 **Reach me:**
 
 <a href="https://www.linkedin.com/in/valeriashafran/">
