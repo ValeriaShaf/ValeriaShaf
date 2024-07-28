@@ -3,7 +3,7 @@ I'm Valeria Shafran a 3rd-year Computer Science student
 - 🔭 I’m currently working on an android app
 - 🌱 I’m currently learning Kotlin
 
-
+<a></a>
 
 Take a look at my current work!
 ### [Travel Journal App](https://github.com/username/kotlin-final-project)
