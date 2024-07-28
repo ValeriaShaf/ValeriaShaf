@@ -4,10 +4,10 @@ I'm Valeria Shafran a 3rd-year Computer Science student
 - 🌱 I’m currently learning Kotlin
 
 
-### [My Kotlin Final Project](https://github.com/username/kotlin-final-project)
+### [Travel Journal App](https://github.com/username/kotlin-final-project)
 
-![Screen Recorder](https://github.com/username/kotlin-final-project/raw/main/path/to/screen-recorder.gif)
-You can find more details in the [project's README](https://github.com/username/kotlin-final-project#readme).
+![Screen Recorder](https://github.com/ValeriaShaf/Kotlin-Project-Travel-Journal/raw/main/screen-recorder.gif)
+You can find more details in the [project's README](https://github.com/ValeriaShaf/Kotlin-Project-Travel-Journal#readme).
 
 **Reach me:**
 
