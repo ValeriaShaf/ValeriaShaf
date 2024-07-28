@@ -11,7 +11,7 @@ Take a look at my current work!
 <img src="https://github.com/ValeriaShaf/Kotlin-Project-Travel-Journal/raw/main/screen-recorder.gif" width="200" alt="Demo">
 
 You can find more details in the [project's README](https://github.com/ValeriaShaf/Kotlin-Project-Travel-Journal#readme).
-
+<br>
 **Reach me:**
 
 <a href="https://www.linkedin.com/in/valeriashafran/">
