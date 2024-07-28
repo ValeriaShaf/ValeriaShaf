@@ -6,7 +6,7 @@ I'm Valeria Shafran a 3rd-year Computer Science student
 
 <br>
 
-Take a look at my current work!
+**Take a look at my current work!**
 ---
 ### [Travel Journal App](https://github.com/username/kotlin-final-project)
 
