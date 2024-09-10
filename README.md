@@ -52,22 +52,13 @@ BSc Computer Science graduate
 <a>
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Kotlin_Icon.png/1200px-Kotlin_Icon.png"  height="45" title="Kotlin" >
 </a>
-
+<br>
+<a>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Android_Studio_Logo_%282023%29.svg/800px-Android_Studio_Logo_%282023%29.svg.png"  height="45" title="Android Studio" >
+</a>
+<a>
+    <img src="https://pbs.twimg.com/profile_images/1255113654049128448/J5Yt92WW_400x400.png"  height="45" title="MySQL" >
+</a>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ValeriaShaf)](https://github.com/ValeriaShaf/github-readme-stats)
 
-
-<!--
-**ValeriaShaf/ValeriaShaf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
