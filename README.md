@@ -6,7 +6,7 @@ BSc Computer Science graduate
 
 **Take a look at my recent work using kotlin in android studio**
 
-### [Travel Journal App](https://github.com/ValeriaShaf/Kotlin-Project-Travel-Journal)
+### [List Managment App](https://github.com/ValeriaShaf/Kotlin-Project-Travel-Journal)
 
 <img src="https://github.com/ValeriaShaf/Kotlin-Project-Travel-Journal/raw/main/screen-recorder.gif" width="200" alt="Demo">
 
